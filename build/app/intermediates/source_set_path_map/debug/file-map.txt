@@ -1,0 +1,14 @@
+com.example.ai_app-jetified-window-java-1.0.0-beta04-0 C:\Users\dilas\.gradle\caches\transforms-3\18deafea6fd8bd15b4ac488481ce7189\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.ai_app-core-1.6.0-1 C:\Users\dilas\.gradle\caches\transforms-3\87955219ada9e4e421baba4d189bfc74\transformed\core-1.6.0\res
+com.example.ai_app-jetified-window-1.0.0-beta04-2 C:\Users\dilas\.gradle\caches\transforms-3\cc5bad0ed8e76ce4cfc4c687e304cead\transformed\jetified-window-1.0.0-beta04\res
+com.example.ai_app-jetified-security-crypto-1.1.0-alpha06-3 C:\Users\dilas\.gradle\caches\transforms-3\dde0f80f263b9001a2400a3d679bfd1a\transformed\jetified-security-crypto-1.1.0-alpha06\res
+com.example.ai_app-jetified-annotation-experimental-1.1.0-4 C:\Users\dilas\.gradle\caches\transforms-3\f57c9dcbaac671d409c90afd181b1c28\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.ai_app-debug-5 C:\Users\dilas\Documents\Dg\android\app\src\debug\res
+com.example.ai_app-main-6 C:\Users\dilas\Documents\Dg\android\app\src\main\res
+com.example.ai_app-pngs-7 C:\Users\dilas\Documents\Dg\build\app\generated\res\pngs\debug
+com.example.ai_app-resValues-8 C:\Users\dilas\Documents\Dg\build\app\generated\res\resValues\debug
+com.example.ai_app-rs-9 C:\Users\dilas\Documents\Dg\build\app\generated\res\rs\debug
+com.example.ai_app-mergeDebugResources-10 C:\Users\dilas\Documents\Dg\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.ai_app-mergeDebugResources-11 C:\Users\dilas\Documents\Dg\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.ai_app-merged_res-12 C:\Users\dilas\Documents\Dg\build\app\intermediates\merged_res\debug
+com.example.ai_app-packaged_res-13 C:\Users\dilas\Documents\Dg\build\flutter_secure_storage\intermediates\packaged_res\debug
